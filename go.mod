@@ -65,7 +65,7 @@ require (
 	github.com/goccy/go-json v0.10.5 // indirect
 	github.com/gocolly/colly v1.2.0 // indirect
 	github.com/gofiber/template v1.8.3 // indirect
-	github.com/gofiber/utils v1.1.0 // indirect
+	github.com/gofiber/utils v1.2.0 // indirect
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/gomarkdown/markdown v0.0.0-20250311123330-531bef5e742b
